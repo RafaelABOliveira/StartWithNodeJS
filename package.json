@@ -13,6 +13,7 @@
   "author": "Rafael Antonio",
   "license": "ISC",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.16.4",
     "nodemon": "^1.18.10"
   }
