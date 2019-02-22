@@ -13,8 +13,10 @@
   "author": "Rafael Antonio",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "consign": "^0.1.6",
     "express": "^4.16.4",
+    "nedb": "^1.8.0",
     "nodemon": "^1.18.10"
   }
 }
